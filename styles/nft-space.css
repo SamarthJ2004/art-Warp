@@ -34,10 +34,7 @@ body{
 }
 .sortFunction #order{width: 110px;}
 .sortFunction #sortBy{width: 150px;}
-.sort-head{
-    margin-bottom: -30px;
-    font-family: Papyrus;
-}
+
 .buttonSort{
     padding: 10px 15px;
     border-radius: 17px;
