@@ -36,10 +36,10 @@ document.querySelector('footer')
 
         <ul>
             <p>Join Us</p>
-            <a>Instagram</a>
+            <a href='https://www.instagram.com/samarth__jindal?igsh=cmpuYnpseWY3eHNx'>Instagram</a>
+            <a href='https://www.discordapp.com/users/1159167506167115856'>Discord</a>
+            <a href='https://www.linkedin.com/in/samarth-jindal-1129a01b8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'>LinkedIn</a>
             <a>Facebook</a>
-            <a>Discord</a>
-            <a>X</a>
         </ul>
         
     </div>
@@ -51,10 +51,10 @@ document.querySelector('footer')
         </div>
 
         <div class="footer-right">
-            <i class="icons fa-brands fa-facebook fa-xl"></i>
             <i class="icons fa-brands fa-instagram fa-xl"></i>
             <i class="icons fa-brands fa-discord fa-xl"></i>
-            <i class="icons fa-brands fa-x-twitter fa-xl"></i>
+            <i class="icons fa-brands fa-linkedin fa-xl"></i>
+            <i class="icons fa-brands fa-facebook fa-xl"></i>
         </div>
     </div>`;
 
