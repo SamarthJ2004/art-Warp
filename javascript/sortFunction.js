@@ -6,7 +6,6 @@ export function sortHTML(){
     document.querySelector('.sortFunction')
         .innerHTML=`
     <div>
-        <div class="sort-head">SORT</div>
         <select name="Sort By" id="sortBy" class="sortOption">
         <option>Choose</option>
         <option>Price</option>
