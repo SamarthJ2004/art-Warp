@@ -49,7 +49,7 @@ Once the project is running, users can:
 
 <h3>Credits</h3>
 <ul>
-  <li><a href='https://www.linkedin.com/in/yash-sharma-2a69a7255'>Yash Sharma</a> sir for his constant guidance and also the club to introduce me to Blockchain Technology</li>
+  <li>I would like to thank <a href='https://www.linkedin.com/in/yash-sharma-2a69a7255'>Yash Sharma</a> sir for his constant guidance and also the club to introduce me to Blockchain Technology</li>
   <li>For inspiration I went on NFT marketplces like Open Sea and Rarrible</li>
 </ul>
 
