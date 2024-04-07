@@ -5,7 +5,7 @@
 
 <h3>Table of Content</h3>
 <ol>
-  <li><a href='#' onclick="getElementById('#install').scrollIntoView({ behavior: 'smooth', block: 'start' })">Installation</a>
+  <li>Installation
   <li>Getting Started
   <li>Usage and Features
   <li>Technologies Used
@@ -56,7 +56,7 @@ Once the project is running, users can:
 <h3>Roadmap</h3>
 <p>I plan to convert this project to react javascript and develop it to a conmplete working NFT marketplace using the blockchain Ethereum</p>
 
-<h3 id='install'>NOTE</h3>
+<h3>NOTE</h3>
 <ul>
   <li>The website in not ooptimed for a mobile device like smartphones, though it works fine on all size laptops</li>
   <li>The website might take time to load due to large size of some media</li>
