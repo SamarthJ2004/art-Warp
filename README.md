@@ -5,15 +5,16 @@
 
 <h3>Table of Content</h3>
 <ol>
-  <li>Installation
-  <li>Usage
-  <li>Features
+  <li><a href='#' onclick="scrollToElement('#install')">Installation</a>
+  <li>Getting Started
+  <li>Usage and Features
   <li>Technologies Used
-  <li>Contributing
-  <li>License
+  <li>Credits
+  <li>Roadmap
+  <li>Note
 </ol>
 
-<h3>Installation</h3>
+<h3 id='install'>Installation</h3>
 To run the project locally, follow these steps:
 <ol>
   <li>Clone this repository to your local machine using `git clone <repository-url>`.
