@@ -11,7 +11,7 @@
   <li>Technologies Used
   <li>Contributing
   <li>License
-</ol><br><br>
+</ol>
 
 <h3>Installation</h3>
 To run the project locally, follow these steps:
@@ -19,7 +19,7 @@ To run the project locally, follow these steps:
   <li>Clone this repository to your local machine using `git clone <repository-url>`.
   <li>Navigate to the project directory.
   <li>Open`index.html` file in your preferred web browser.
-</ol><br><br>
+</ol>
 
 <h3>Getting Started</h3>
 <p>The project opens at a basic page with not much interactivity. At this page you need ot sign up and then sign in and then a new layer of complete interactiviity and features opens up.</p>
@@ -55,4 +55,8 @@ Once the project is running, users can:
 <h3>Roadmap</h3>
 <p>I plan to convert this project to react javascript and develop it to a conmplete working NFT marketplace using the blockchain Ethereum</p>
 
-<h3 style='color:red'>NOTE</h3>
+<h3>NOTE</h3>
+<ul>
+  <li>The website in not ooptimed for a mobile device like smartphones, though it works fine on all size laptops</li>
+  <li>The website might take time to load due to large size of some media</li>
+</ul>
