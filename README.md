@@ -5,7 +5,7 @@
 
 <h3>Table of Content</h3>
 <ol>
-  <li><a href='#' onclick="scrollToElement('#install')">Installation</a>
+  <li><a href='#' onclick="getElementById('#install').scrollIntoView({ behavior: 'smooth', block: 'start' })">Installation</a>
   <li>Getting Started
   <li>Usage and Features
   <li>Technologies Used
