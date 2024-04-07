@@ -14,7 +14,7 @@
   <li>Note
 </ol>
 
-<h3 id='install'>Installation</h3>
+<h3>Installation</h3>
 To run the project locally, follow these steps:
 <ol>
   <li>Clone this repository to your local machine using `git clone <repository-url>`.
@@ -56,7 +56,7 @@ Once the project is running, users can:
 <h3>Roadmap</h3>
 <p>I plan to convert this project to react javascript and develop it to a conmplete working NFT marketplace using the blockchain Ethereum</p>
 
-<h3>NOTE</h3>
+<h3 id='install'>NOTE</h3>
 <ul>
   <li>The website in not ooptimed for a mobile device like smartphones, though it works fine on all size laptops</li>
   <li>The website might take time to load due to large size of some media</li>
